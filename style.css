@@ -1,0 +1,28 @@
+
+.container {
+   
+    p {color:red} 
+    margin: 5px;
+    h1{color: blue;}
+
+    .right {
+        img{
+             height: 300px;
+             width: 300px;
+            }
+           
+        }
+        
+
+    
+    #third { 
+        span {visibility: hidden;}
+        p {background-color: aqua;
+        }
+
+    }
+}
+    
+    
+        
+    
